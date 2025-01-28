@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-b6l^s+t0l(mjrk#%)m(w5_mm-)$m@8th9k)fvkn(#!h-qa7vi)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://mokati-django-todo-app-35b359422c43.herokuapp.com/']
 
 
 # Application definition
